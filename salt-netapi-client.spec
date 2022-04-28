@@ -29,6 +29,7 @@ BuildRequires:  xz
 BuildRequires:  fdupes
 BuildRequires:  java-devel >= 1.8
 BuildRequires:  maven-local
+BuildRequires:  javapackages-tools
 BuildRequires:  mvn(com.google.code.gson:gson)
 BuildRequires:  mvn(javax.websocket:javax.websocket-api)
 BuildRequires:  mvn(org.apache.httpcomponents:httpasyncclient)
